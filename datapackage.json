@@ -1,0 +1,26 @@
+{
+  "name": "eleicoes-datas",
+  "title": "",
+  "homepage": "",
+  "version": "0.1.0",
+  "license": "PDDL-1.0",
+  "resources": [
+    {
+      "name": "eleicoes-datas",
+      "path": "data/eleicoes-datas.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "bytes": 1199,
+      "schema": {
+        "fields": [
+          {
+            "name": "Eleições Legislativas|05-06-2011",
+            "type": "string",
+            "description": ""
+          }
+        ]
+      }
+    }
+  ],
+  "description": ""
+}
