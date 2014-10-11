@@ -1,13 +1,19 @@
 {
   "name": "eleicoes-datas",
-  "title": "Datas de eleições",
-  "homepage": "http://centraldedados.pt/eleicoes-datas",
-  "version": "0.1.0",
+  "title": "Datas de eleições e referendos",
+  "homepage": "http://centraldedados.pt/datasets/eleicoes-datas",
+  "version": "0.2.0",
   "license": "PDDL-1.0",
+  "description": "Datas de atos eleitorais e referendos em Portugal desde 1975",
+  "repository": "git://github.com/centraldedados/eleicoes-datas.git",
   "sources": [
     {
       "name": "CNE",
       "web": "http://eleicoes.cne.pt/sel_eleicoes.cfm?m=raster"
+    },
+    {
+      "name": "Ministério da Administração Interna",
+      "web": "http://www.eleicoes.mai.gov.pt"
     }
   ],
   "resources": [
@@ -16,17 +22,51 @@
       "path": "data/eleicoes-datas.csv",
       "format": "csv",
       "mediatype": "text/csv",
-      "bytes": 1199,
+      "bytes": 10196,
       "schema": {
         "fields": [
           {
-            "name": "Eleições Legislativas|05-06-2011",
+            "name": "data",
+            "type": "date",
+            "description": "Data"
+          },
+          {
+            "name": "tipo",
             "type": "string",
-            "description": ""
+            "description": "Tipo de plebiscito"
+          },
+          {
+            "name": "assunto",
+            "type": "string",
+            "description": "Assunto (informação extra)"
+          },
+          {
+            "name": "url_mai",
+            "type": "number",
+            "description": "URL no site do MAI"
+          },
+          {
+            "name": "url_cne",
+            "type": "string",
+            "description": "URL no site da CNE"
+          },
+          {
+            "name": "url_cne2",
+            "type": "string",
+            "description": "URL no site da CNE 2"
+          },
+          {
+            "name": "url_cne3",
+            "type": "string",
+            "description": "URL no site da CNE 3"
+          },
+          {
+            "name": "url_wikipedia",
+            "type": "string",
+            "description": "URL na Wikipédia"
           }
         ]
       }
     }
-  ],
-  "description": "Datas de atos eleitorais em Portugal."
+  ]
 }

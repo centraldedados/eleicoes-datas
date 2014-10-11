@@ -1,34 +1,66 @@
-Eleições Legislativas|05-06-2011
-Eleições Legislativas|27-09-2009
-Eleições Legislativas|20-02-2005
-Eleições Legislativas|17-03-2002
-Eleições Legislativas|10-10-1999
-Eleições Legislativas|01-10-1995
-Eleições Legislativas|06-10-1991
-Eleições Legislativas|19-07-1987
-Eleições Legislativas|06-10-1985
-Eleições Legislativas|25-04-1983
-Eleições Legislativas|05-10-1980
-Eleições Legislativas|02-12-1979
-Eleições Legislativas|25-04-1976
-Eleições Legislativas|25-04-1975
-Eleições Presidenciais|23-01-2011
-Eleições Presidenciais|22-01-2006
-Eleições Presidenciais|14-01-2001
-Eleições Presidenciais|14-01-1996
-Eleições Presidenciais|13-01-1991
-Eleições Presidenciais|16-02-1986
-Eleições Presidenciais|26-01-1986
-Eleições Presidenciais|07-12-1980
-Eleições Presidenciais|27-06-1976
-Eleições Autárquicas|11-10-2009
-Eleições Autárquicas|15-07-2007
-Eleições Autárquicas|09-10-2005
-Eleições Autárquicas|16-12-2001
-Eleições Autárquicas|14-12-1997
-Eleições Autárquicas|12-12-1993
-Eleições Autárquicas|17-12-1989
-Eleições Autárquicas|15-12-1985
-Eleições Autárquicas|12-12-1982
-Eleições Autárquicas|16-12-1979
-Eleições Autárquicas|12-12-1976
+"data","tipo","assunto","url_mai","url_cne","url_cne2","url_cne3","url_wikipedia"
+1976-12-12,"Autárquicas",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=12&mes=12&ano=1976&eleicao=cm","http://eleicoes.cne.pt/raster/index.cfm?dia=12&mes=12&ano=1976&eleicao=am","raster/index.cfm?dia=12&mes=12&ano=1976&eleicao=af",
+1979-12-16,"Autárquicas",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=16&mes=12&ano=1979&eleicao=cm","http://eleicoes.cne.pt/raster/index.cfm?dia=16&mes=12&ano=1979&eleicao=am","raster/index.cfm?dia=16&mes=12&ano=1979&eleicao=af",
+1982-12-12,"Autárquicas",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=12&mes=12&ano=1982&eleicao=cm","http://eleicoes.cne.pt/raster/index.cfm?dia=12&mes=12&ano=1982&eleicao=am","raster/index.cfm?dia=12&mes=12&ano=1982&eleicao=af",
+1985-12-15,"Autárquicas",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=15&mes=12&ano=1985&eleicao=cm","http://eleicoes.cne.pt/raster/index.cfm?dia=15&mes=12&ano=1985&eleicao=am","raster/index.cfm?dia=15&mes=12&ano=1985&eleicao=af",
+1989-12-17,"Autárquicas",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=17&mes=12&ano=1989&eleicao=cm","http://eleicoes.cne.pt/raster/index.cfm?dia=17&mes=12&ano=1989&eleicao=am","raster/index.cfm?dia=17&mes=12&ano=1989&eleicao=af",
+1993-12-12,"Autárquicas",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=12&mes=12&ano=1993&eleicao=cm","http://eleicoes.cne.pt/raster/index.cfm?dia=12&mes=12&ano=1993&eleicao=am","raster/index.cfm?dia=12&mes=12&ano=1993&eleicao=af",
+1997-12-14,"Autárquicas",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=14&mes=12&ano=1997&eleicao=cm","http://eleicoes.cne.pt/raster/index.cfm?dia=14&mes=12&ano=1997&eleicao=am","raster/index.cfm?dia=14&mes=12&ano=1997&eleicao=af",
+2001-12-16,"Autárquicas",,"http://www.eleicoes.mai.gov.pt/autarquicas2001/D230000/230000_CM.html","http://eleicoes.cne.pt/raster/index.cfm?dia=16&mes=12&ano=2001&eleicao=cm","http://eleicoes.cne.pt/raster/index.cfm?dia=16&mes=12&ano=2001&eleicao=am","raster/index.cfm?dia=16&mes=12&ano=2001&eleicao=af","http://pt.wikipedia.org/wiki/Eleições_autárquicas_portuguesas_de_2001"
+2005-10-09,"Autárquicas",,"http://www.eleicoes.mai.gov.pt/Autarquicas2005/","http://eleicoes.cne.pt/raster/index.cfm?dia=09&mes=10&ano=2005&eleicao=cm","http://eleicoes.cne.pt/raster/index.cfm?dia=09&mes=10&ano=2005&eleicao=am","raster/index.cfm?dia=09&mes=10&ano=2005&eleicao=af","http://pt.wikipedia.org/wiki/Eleições_autárquicas_portuguesas_de_2005"
+2007-07-15,"Autárquicas","Intercalares Lisboa","http://www.eleicoes.mai.gov.pt/autarquicas2007/",,,,
+2009-10-11,"Autárquicas",,"http://www.eleicoes.mai.gov.pt/autarquicas2009/","http://eleicoes.cne.pt/raster/index.cfm?dia=11&mes=10&ano=2009&eleicao=cm","http://eleicoes.cne.pt/raster/index.cfm?dia=11&mes=10&ano=2009&eleicao=am","raster/index.cfm?dia=11&mes=10&ano=2009&eleicao=af","http://pt.wikipedia.org/wiki/Eleições_autárquicas_portuguesas_de_2009"
+2013-09-29,"Autárquicas",,"http://www.eleicoes.mai.gov.pt/autarquicas2013/",,,,"http://pt.wikipedia.org/wiki/Eleições_autárquicas_portuguesas_de_2013"
+1987-06-19,"Europeias",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=19&mes=07&ano=1987&eleicao=pe",,,
+1989-06-18,"Europeias",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=18&mes=06&ano=1989&eleicao=pe",,,
+1994-06-12,"Europeias",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=12&mes=06&ano=1994&eleicao=pe",,,
+1999-06-13,"Europeias",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=13&mes=06&ano=1999&eleicao=pe",,,
+2004-06-13,"Europeias",,"http://www.eleicoes.mai.gov.pt/europeias2004/","http://eleicoes.cne.pt/raster/index.cfm?dia=13&mes=06&ano=2004&eleicao=pe",,,"http://pt.wikipedia.org/wiki/Eleições_parlamentares_europeias_em_2004_(Portugal)"
+2009-06-07,"Europeias",,"http://www.eleicoes.mai.gov.pt/europeias2009/","http://eleicoes.cne.pt/raster/index.cfm?dia=07&mes=06&ano=2009&eleicao=pe",,,"http://pt.wikipedia.org/wiki/Eleições_parlamentares_europeias_de_2009_(Portugal)"
+2014-05-25,"Europeias",,"http://www.eleicoes.mai.gov.pt/europeias2014/",,,,"http://pt.wikipedia.org/wiki/Eleições_parlamentares_europeias_de_2014_(Portugal)"
+"1975-04-25","Legislativas",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=25&mes=04&ano=1975&eleicao=ar",,,
+"1976-04-25","Legislativas",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=25&mes=04&ano=1976&eleicao=ar",,,
+"1979-12-02","Legislativas","Intercalares",,"http://eleicoes.cne.pt/raster/index.cfm?dia=02&mes=12&ano=1979&eleicao=ar",,,
+"1980-10-05","Legislativas",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=05&mes=10&ano=1980&eleicao=ar",,,
+"1983-04-25","Legislativas",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=25&mes=04&ano=1983&eleicao=ar",,,
+"1985-10-06","Legislativas",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=06&mes=10&ano=1985&eleicao=ar",,,
+"1987-07-19","Legislativas",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=19&mes=07&ano=1987&eleicao=ar",,,
+"1991-10-06","Legislativas",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=06&mes=10&ano=1991&eleicao=ar",,,
+"1995-10-01","Legislativas",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=01&mes=10&ano=1995&eleicao=ar",,,
+"1999-10-10","Legislativas",,"http://www.eleicoes.mai.gov.pt/legislativas1999/D230000/230000_AR.html","http://eleicoes.cne.pt/raster/index.cfm?dia=10&mes=10&ano=1999&eleicao=ar",,,
+"2002-03-17","Legislativas",,"http://www.eleicoes.mai.gov.pt/legislativas2002/D230000/230000_IS.html","http://eleicoes.cne.pt/raster/index.cfm?dia=17&mes=03&ano=2002&eleicao=ar",,,
+"2005-02-20","Legislativas",,"http://www.eleicoes.mai.gov.pt/legislativas2005/","http://eleicoes.cne.pt/raster/index.cfm?dia=20&mes=02&ano=2005&eleicao=ar",,,
+"2009-09-27","Legislativas",,"http://www.eleicoes.mai.gov.pt/legislativas2009/","http://eleicoes.cne.pt/raster/index.cfm?dia=27&mes=09&ano=2009&eleicao=ar",,,
+"2011-06-05","Legislativas",,"http://www.eleicoes.mai.gov.pt/legislativas2011/","http://eleicoes.cne.pt/raster/index.cfm?dia=05&mes=06&ano=2011&eleicao=ar",,,
+"1976-06-27","Presidenciais",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=27&mes=06&ano=1976&eleicao=pr",,,
+"1980-12-07","Presidenciais",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=07&mes=12&ano=1980&eleicao=pr",,,
+"1986-01-26","Presidenciais","Primeira volta",,"http://eleicoes.cne.pt/raster/index.cfm?dia=26&mes=01&ano=1986&eleicao=pr",,,
+"1986-02-16","Presidenciais","Segunda volta",,"http://eleicoes.cne.pt/raster/index.cfm?dia=16&mes=02&ano=1986&eleicao=pr",,,
+"1991-01-13","Presidenciais",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=13&mes=01&ano=1991&eleicao=pr",,,
+"1996-01-14","Presidenciais",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=14&mes=01&ano=1996&eleicao=pr",,,
+"2001-01-14","Presidenciais",,"http://www.eleicoes.mai.gov.pt/presidenciais2001/D230000/230000_PR.html","http://eleicoes.cne.pt/raster/index.cfm?dia=14&mes=01&ano=2001&eleicao=pr",,,
+"2006-01-22","Presidenciais",,"http://www.eleicoes.mai.gov.pt/Presidenciais2006/","http://eleicoes.cne.pt/raster/index.cfm?dia=22&mes=01&ano=2006&eleicao=pr",,,
+"2011-01-23","Presidenciais",,"http://www.eleicoes.mai.gov.pt/presidenciais2011/","http://eleicoes.cne.pt/raster/index.cfm?dia=23&mes=01&ano=2011&eleicao=pr",,,
+"1998-06-28","Referendo","Aborto",,"http://eleicoes.cne.pt/raster/index.cfm?dia=28&mes=06&ano=1998&eleicao=re1",,,"http://pt.wikipedia.org/wiki/Aborto_em_Portugal#1998"
+"1998-11-08","Referendo","Regionalização",,"http://eleicoes.cne.pt/raster/index.cfm?dia=08&mes=11&ano=1998&eleicao=re2a","http://eleicoes.cne.pt/raster/index.cfm?dia=08&mes=11&ano=1998&eleicao=re2b",,"http://pt.wikipedia.org/wiki/Regionalização#Referendo_de_8_de_Novembro_de_1998"
+"2007-02-11","Referendo","Aborto","http://www.eleicoes.mai.gov.pt/referendoIVG2007/","http://eleicoes.cne.pt/raster/index.cfm?dia=11&mes=02&ano=2007&eleicao=re1",,,"http://pt.wikipedia.org/wiki/Referendo_à_despenalização_do_aborto_em_Portugal_(2007)"
+1976-06-27,"Regionais Açores",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=27&mes=06&ano=1976&eleicao=alr",,,
+1980-10-05,"Regionais Açores",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=05&mes=10&ano=1980&eleicao=alr",,,
+1984-10-14,"Regionais Açores",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=14&mes=10&ano=1984&eleicao=alr",,,
+1988-10-09,"Regionais Açores",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=09&mes=10&ano=1988&eleicao=alr",,,
+1992-10-11,"Regionais Açores",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=11&mes=10&ano=1992&eleicao=alr",,,
+1996-10-13,"Regionais Açores",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=13&mes=10&ano=1996&eleicao=alr",,,
+2000-10-15,"Regionais Açores",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=15&mes=10&ano=2000&eleicao=alr",,,
+2004-10-17,"Regionais Açores",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=17&mes=10&ano=2004&eleicao=alr",,,
+2008-10-19,"Regionais Açores",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=19&mes=10&ano=2008&eleicao=alr",,,
+2012-10-14,"Regionais Açores",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=14&mes=10&ano=2012&eleicao=alr",,,
+1976-06-27,"Regionais Madeira",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=27&mes=06&ano=1976&eleicao=alrm",,,
+1980-10-05,"Regionais Madeira",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=05&mes=10&ano=1980&eleicao=alrm",,,
+1984-10-14,"Regionais Madeira",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=14&mes=10&ano=1984&eleicao=alrm",,,
+1988-10-09,"Regionais Madeira",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=09&mes=10&ano=1988&eleicao=alrm",,,
+1992-10-11,"Regionais Madeira",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=11&mes=10&ano=1992&eleicao=alrm",,,
+1996-10-13,"Regionais Madeira",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=13&mes=10&ano=1996&eleicao=alrm",,,
+2000-10-15,"Regionais Madeira",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=15&mes=10&ano=2000&eleicao=alrm",,,
+2004-10-17,"Regionais Madeira",,,"http://eleicoes.cne.pt/raster/index.cfm?dia=17&mes=10&ano=2004&eleicao=alrm",,,
+2007-05-06,"Regionais Madeira",,"http://www.eleicoes.mai.gov.pt/regionais2007/","http://eleicoes.cne.pt/raster/index.cfm?dia=06&mes=05&ano=2007&eleicao=alrm",,,
+2011-10-09,"Regionais Madeira",,"http://www.eleicoes.mai.gov.pt/regionais2011/","http://eleicoes.cne.pt/raster/index.cfm?dia=09&mes=10&ano=2011&eleicao=alrm",,,
