@@ -6,8 +6,9 @@ do MAI, quando disponíveis, e para as respetivas páginas da Wikipédia.
 Fontes
 ------
 
-O dataset foi construído a partir da informação disponível nos sites da 
-[CNE](http://eleicoes.cne.pt/) e do [MAI](http://www.eleicoes.mai.gov.pt).
+O dataset foi construído a partir da informação disponível nos sites da
+[Comissão Nacional de Eleições](http://eleicoes.cne.pt/) e do [Ministério da
+Administração Interna](http://www.eleicoes.mai.gov.pt).
 
 As omissões nos links tanto da CNE como do MAI significam que o site não tem
 informação relativa a esse ato eleitoral ou referendo.
