@@ -3,7 +3,7 @@
   "title": "Datas de eleições e referendos",
   "homepage": "http://centraldedados.pt/datasets/eleicoes-datas",
   "version": "0.2.0",
-  "license": "PDDL-1.0",
+  "license": "PDDL",
   "description": "Datas de atos eleitorais e referendos em Portugal desde 1975",
   "repository": "git://github.com/centraldedados/eleicoes-datas.git",
   "sources": [
