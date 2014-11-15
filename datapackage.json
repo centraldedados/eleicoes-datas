@@ -8,17 +8,17 @@
   "repository": "git://github.com/centraldedados/eleicoes-datas.git",
   "sources": [
     {
-      "name": "CNE",
+      "name": "Comissão Nacional de Eleições",
       "web": "http://eleicoes.cne.pt/sel_eleicoes.cfm?m=raster"
     },
     {
-      "name": "MAI",
+      "name": "Ministério da Administração Interna",
       "web": "http://www.eleicoes.mai.gov.pt"
     }
   ],
   "resources": [
     {
-      "name": "eleicoes-datas",
+      "name": "Eleições e referendos",
       "path": "data/eleicoes-datas.csv",
       "format": "csv",
       "mediatype": "text/csv",
