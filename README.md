@@ -17,7 +17,7 @@ informação relativa a esse ato eleitoral ou referendo.
 Limitações
 ----------
 
-A lista de links da Wikipédia ainda está incompleta.
+A lista de links da Wikipédia está incompleta.
 
 
 Licença
